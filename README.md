@@ -3,7 +3,7 @@
 
 `Developer/Always learning` 
 
-I'm a hobbyist developer trying to build a portfolio of apps to solve real life problem.
+I'm a hobbyist developer trying to build a portfolio of apps to solve real life problems.
 All of my code is made the same way - from detailed plan to a fully functioning product.
 Privately a huge fan of Lego and books.
 ___
