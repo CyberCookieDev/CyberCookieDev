@@ -1,16 +1,41 @@
-## Hello there 
+# Hi there, I'm CyberCookieDev.
 
+![Profile Views](https://komarev.com/ghpvc/?username=CyberCookieDev&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/CyberCookieDev?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/CyberCookieDev?style=social)
 
-`Developer/Always learning` 
+---
 
-I'm a hobbyist developer trying to build a portfolio of apps to solve real life problems.
-All of my code is made the same way - from detailed plan to a fully functioning product.
-Privately a huge fan of Lego and books.
-___
-## My tools and languages:
+## About Me
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+I'm a passionate Python programmer who creates projects solving everyday problems, aiming to build a project portfolio.
 
-#
+- **Passionate about:** Python and tinkering with software.
+- **Learning:** Web Development, creating user interfaces.
+- **Hobbies:** Reading, Lego and gaming.
+
+---
+
+## My Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![CyberCookieDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberCookieDev&show_icons=true&theme=radical)
+
+---
+
+## 🛠️ Current Project
+
+- **[HandyTools](https://github.com/CyberCookieDev/handytools):** A scripthub hosting all your Python scripts in a nice CLI.
+---
