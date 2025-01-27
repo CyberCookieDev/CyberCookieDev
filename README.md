@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate Python programmer who creates projects solving everyday problems, aiming to build a project portfolio.
+I'm a Python programmer who creates projects solving everyday problems, aiming to build a project portfolio.
 
 - **Passionate about:** Python and tinkering with software.
 - **Learning:** Web Development, creating user interfaces.
@@ -32,6 +32,8 @@ I'm a passionate Python programmer who creates projects solving everyday problem
 ## 📊 GitHub Stats
 
 ![CyberCookieDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberCookieDev&show_icons=true&theme=radical)
+
+(doesn't look impressive, right? :P)
 
 ---
 
